@@ -1,7 +1,7 @@
 
 ### How to run this application:
 
-Having Node.js and Angular.js installed, follow the commands below to install Ionic and Cordova:
+Having Node.js, NPM and Angular.js installed, follow the commands below to install Ionic and Cordova:
 
 ```bash
 $ sudo npm install -g ionic cordova
